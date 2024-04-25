@@ -81,6 +81,7 @@
   [Resultado de la Consulta](https://github.com/AlarconIlbert/GlobalMVM/blob/main/Consulta.xlsx)
 
   [Script Creacion de Tablas](https://github.com/AlarconIlbert/GlobalMVM/blob/main/Create_Tables.sql)
+
 <p align="center">
   <img src="Source/Picture1.png">
 </p>
@@ -111,4 +112,23 @@
 
 **Solución:** Este desafio no me fue posible realizarlo ya que los recursos que tengo en Azure no me dan para desarroollarlo, sin embargo aqui dejo una breve descripcion de como lo haria en Azure:
 
-Crea un grupo de recursos >> crear un appservice >> Crear webapp >> Desplegar webapp  
+Crea un grupo de recursos >> crear un appservice >> Crear webapp >> Desplegar webapp 
+
+# 2. Modelamiento de datos para BI
+
+• **DESAFIO #1**: Usando la herramienta Power BI Desktop y el conector OData deberá extraer los datos y crear un modelo dimensional que contemple las buenas prácticas. El modelo deberá asegurar un adecuado performance al ser consultado y reducir la redundancia en los datos. Registre en un
+PDF/Word.
+
+  [Modelado](https://github.com/AlarconIlbert/GlobalMVM/blob/main/Desafio%202/Desafio%202-1.pdf)
+
+
+
+• **DESAFIO #2**: Diseñe un pequeño dashboard interactivo que visualice tres indicadores que considere los más relevantes para explicar los datos. Será un plus considerar el uso de filtros, inteligencia de tiempo, medidas DAX y una adecuada estética de colores y disposición de los elementos. Incluya una page oculta con las notas técnicas que expliquen, brevemente, porque el modelo diseñado está optimizado para un correcto rendimiento y para reducir al máximo la redundancia de los datos.
+
+  [Dashboard](https://github.com/AlarconIlbert/GlobalMVM/blob/main/Desafio%202/Dashboard_Filtro1.pdf)
+
+  [Dashboard_Editable](https://github.com/AlarconIlbert/GlobalMVM/blob/main/Desafio%202/Desafio2-2.pbix)
+
+  [Filtro 1](https://github.com/AlarconIlbert/GlobalMVM/blob/main/Desafio%202/Dashboard_Filtro1.pdf)
+  
+  [Filtro 2](https://github.com/AlarconIlbert/GlobalMVM/blob/main/Desafio%202/Dashboard_Filtro2.pdf)
